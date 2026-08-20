@@ -62,7 +62,7 @@ The app focuses on a clean and modern UI while providing a smooth and intuitive 
 
 The home page provides a professional food-discovery experience with a sliding food menu, categorized sections, and scrollable food listings.
 
-![Home Page](screenshots/home.jpeg)
+![Home Page](assets/screenshots/home.jpeg)
 
 ---
 
@@ -70,7 +70,7 @@ The home page provides a professional food-discovery experience with a sliding f
 
 The Orders section provides easy access to multiple food categories through the bottom navigation and organized food listings.
 
-![Orders Page](screenshots/orders.jpeg)
+![Orders Page](assets/screenshots/orders.jpeg)
 
 ---
 
@@ -78,7 +78,7 @@ The Orders section provides easy access to multiple food categories through the 
 
 The Cart page displays the food items selected by the user and provides a convenient way to manage the current order.
 
-![Cart Page](screenshots/cart.jpeg)
+![Cart Page](assets/screenshots/cart.jpeg)
 
 ---
 
@@ -86,7 +86,7 @@ The Cart page displays the food items selected by the user and provides a conven
 
 The Profile page includes the user's profile image, account information, and logout functionality.
 
-![Profile Page](screenshots/profile.jpeg)
+![Profile Page](assets/screenshots/profile.jpeg)
 
 ---
 
@@ -94,7 +94,7 @@ The Profile page includes the user's profile image, account information, and log
 
 Users can save their favorite food items and access them from the dedicated Favorites section.
 
-![Favorites Page](screenshots/favorites.jpeg)
+![Favorites Page](assets/screenshots/favorites.jpeg)
 
 ---
 
@@ -102,9 +102,9 @@ Users can save their favorite food items and access them from the dedicated Favo
 
 Users can open individual food items to view their image, name, description, and other relevant details before adding them to their cart or favorites.
 
-![Food Details](screenshots/food_details_1.jpeg)
+![Food Details](assets/screenshots/food_details_1.jpeg)
 
-![Food Details](screenshots/food_details_2.jpeg)
+![Food Details](assets/screenshots/food_details_2.jpeg)
 
 ---
 
